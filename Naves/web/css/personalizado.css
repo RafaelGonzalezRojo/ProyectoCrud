@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-may-2016, 8:54:14
+    Author     : rafa
+*/
+
+body{
+    
+  background-image: url(../imagenes/fondobody.jpg);  
+
+  color:#0066FF;
+}
+
+h1,h2,h3{
+    
+    font-family:'Orbitron', sans-serif;
+}
+
+td,th,label,button,a,input{
+    
+    font-family:'Orbitron', sans-serif;
+    font-size:12px;
+}
+
+#cabecera{
+    text-align: center;
+    width:80%;
+    background-image:url(../imagenes/cabecera.jpg);
+    margin:0 auto;
+    height: 150px;
+    margin-top:3%;
+    border-radius:20px;
+    padding-top: 4%;
+    color:#357ebd;
+ 
+}
+.footer{
+     text-align: left;
+     font-family:'Orbitron', sans-serif;
+     font-size:18px;
+     color:#0066FF;
+     font-style:italic;
+}
+
+#imagencabecera{
+    
+    
+    height: 20%;
+    width: 20%;
+    border:solid 3px;
+    background-image: url(../imagenes/luis.jpg);
+    margin-top: -4%;
+    margin-left: 60%;
+    float:right;
+    border-radius:20px;
+    position:absolute;
+    border-color:#555;
+}
+
+.acceso{
+    
+    
+    width: 50%;
+    margin:0 auto;
+    height: 20%;
+    background-color: #e5e5e5;
+    
+}
